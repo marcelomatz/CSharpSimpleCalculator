@@ -1,0 +1,14 @@
+/Users/ruivo/csharpFundamentals/Cronometro/bin/Debug/net7.0/Cronometro
+/Users/ruivo/csharpFundamentals/Cronometro/bin/Debug/net7.0/Cronometro.deps.json
+/Users/ruivo/csharpFundamentals/Cronometro/bin/Debug/net7.0/Cronometro.runtimeconfig.json
+/Users/ruivo/csharpFundamentals/Cronometro/bin/Debug/net7.0/Cronometro.dll
+/Users/ruivo/csharpFundamentals/Cronometro/bin/Debug/net7.0/Cronometro.pdb
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/Cronometro.AssemblyInfoInputs.cache
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/Cronometro.AssemblyInfo.cs
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/Cronometro.csproj.CoreCompileInputs.cache
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/Cronometro.dll
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/refint/Cronometro.dll
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/Cronometro.pdb
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/Cronometro.genruntimeconfig.cache
+/Users/ruivo/csharpFundamentals/Cronometro/obj/Debug/net7.0/ref/Cronometro.dll
